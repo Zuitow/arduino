@@ -1,3 +1,3 @@
 # Arduino
 Atividade Arduino em grupo.
-Paulo C. , Isabella T. Milena B. Wellington C.
+Paulo C. , Isabella T. Nicolas C. Milena B. Wellington C.
